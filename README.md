@@ -1,4 +1,4 @@
-# Bosluksuz_MelSpectrogram_Cikar
+# Sesten Çerçeveleri Kaldırılmış MelSpectrogram Çikar
 
 Sadece matlab da var olan melSpectrogram fonksiyonu çalıştırıldığında çıktı aşağıdaki gibi olur.
 
